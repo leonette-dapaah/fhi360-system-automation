@@ -1,0 +1,16 @@
+export { default as myBackgroundImage } from "./background";
+export { default as laptopBrands } from "./laptopTypes/laptopBrands";
+export { default as laptopModels } from "./laptopTypes/laptopModels";
+export { default as MiFiBrands } from "./mifiTypes/mifiBrands";
+export { default as MiFiModels } from "./mifiTypes/mifiModels";
+export { default as projects } from "./projects/projects";
+export { default as mobilePhones } from "./mobilePhoneTypes/mobilePhones";
+export { default as monitorBrands } from "./monitorTypes/monitorBrands";
+export { default as monitorModels } from "./monitorTypes/monitorModels";
+export { default as dockBrands } from "./dockTypes/dockstationBrands";
+export { default as dockModels } from "./dockTypes/dockstationModels";
+export { default as UPSbrands } from "./upsTypes/upsBrands";
+export { default as UPSmodels } from "./upsTypes/upsModels";
+export { default as printerBrands } from "./printerTypes/printerBrands";
+export { default as printerModels } from "./printerTypes/printerModels";
+export { default as staff } from "./staff/staff";
