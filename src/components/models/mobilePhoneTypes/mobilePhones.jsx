@@ -26,16 +26,21 @@ const mobilePhones = [
     },
     {
         id: 6,
+        label: "Samsung Galaxy A03s",
+        value: "Galaxy A03s",
+    },
+    {
+        id: 7,
         label: "Samsung Galaxy M11",
         value: "Galaxy M11",
     },
     {
-        id: 7,
+        id: 8,
         label: "Nokia 5.1",
         value: "Nokia 5.1",
     },
     {
-        id: 8,
+        id: 9,
         label: "Iphone X",
         value: "Iphone X",
     },
