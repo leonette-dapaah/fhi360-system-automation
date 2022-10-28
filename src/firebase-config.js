@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCUTxzR9CgKpgNU2nFfTXKwVWcaEVQ86h4",
+  apiKey: "",
   authDomain: "fhi360-sys-automation.firebaseapp.com",
   projectId: "fhi360-sys-automation",
   storageBucket: "fhi360-sys-automation.appspot.com",
-  messagingSenderId: "182121531282",
-  appId: "1:182121531282:web:6eabf8e2c8c31202da634b",
+  messagingSenderId: "",
+  appId: "",
   measurementId: "G-4GFX1RC2J6"
 };
 
